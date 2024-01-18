@@ -1,0 +1,12 @@
+#cardstart{
+    border: none;
+}
+#font{
+    font-size: 10px;
+   
+}
+#btnstart{
+    background-color: black;
+    color:white;
+    padding: 5px 50px;
+}

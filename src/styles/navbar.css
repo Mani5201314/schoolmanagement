@@ -1,0 +1,10 @@
+#space{
+    text-decoration: none;
+    color: gray;
+}
+#space:hover{
+    color: lawngreen;
+}
+#fixed{
+    position:sticky;
+}

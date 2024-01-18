@@ -1,0 +1,11 @@
+#navimg{
+    border-radius: 50%;
+}
+#piechart{
+    display: flex;
+    justify-content: space-around;
+}
+
+#navhome{
+    padding-bottom: 0;    
+}
